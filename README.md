@@ -30,7 +30,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
   
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logoColor=white)](https://ja-e.tistory.com/)
   
 <!-- 참고  https://shields.io/category/social  -->
   
