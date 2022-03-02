@@ -173,7 +173,7 @@ Vue ->
   
   <br><br>
 
-<h2>🛠 Github stats 🛠</h2>
+<h2>💻 Github stats 💻</h2>
   
   <br>
   
